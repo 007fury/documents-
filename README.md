@@ -1,5 +1,4 @@
-# documents-
-certificates 
+#certificates 
 
 Arduino training : https://drive.google.com/file/d/1SOg_e4BSvkRYOCfcGsHIja7tGc_ZZVWp/view?usp=drive_link
 Data Science 101 : : https://drive.google.com/file/d/1S5dtMVT6BhmBlsyLLknKiyAkFVXIwZpw/view?usp=sharing
